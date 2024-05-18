@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k1gmv8k61obdqnh3?svg=true)](https://ci.appveyor.com/project/Shustovskikh/methods)
